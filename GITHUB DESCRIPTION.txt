@@ -1,0 +1,1 @@
+Video Game Sales - Tableau Interactive Dashboard____________________________This dashboard displays the sales data and gives information on the most successful game genres, platforms and publishers. The user can use of parameter controls and filters to affect the data displayed.
